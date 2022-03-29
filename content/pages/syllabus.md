@@ -61,23 +61,129 @@ Grading
 
 Grades will be determined by a weighted average of:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets | 35% |
-| Midterm Exam | 25% |
-| Final Exam | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The faculty may also take into account other qualitative measures of performance such as class participation, improvement, and effort.
 
 Subjects and Topics
 -------------------
 
-| SUBJECTS | TOPICS |
-| --- | --- |
-| Lagrangian and Hamiltonian Mechanics with Constraints | Euler-Lagrange Equations, Hamilton Equations, D'Alembert and Hamilton principles, Conservation Laws, holonomic and nonholonomic constraints, Lagrange multipliers |
-| Rigid Bodies & Rotations | Non-inertial coordinate systems, rotation matrices, Euler's theorem, Moment of Inertia Tensor, Euler Equations, Lagrangian for a spinning top with torque |
-| Vibrations and Oscillations | Simultaneous diagonalization of matrices for kinetic and potential energy. Using normal coordinates as generalized coordinates |
-| Canonical Transformations and Hamilton-Jacobi Equations | Generating functions for canonical transformations, invariants, Hamilton-Jacobi equation, action-angle variables. Kepler problem with action-angle variables. Three-Body problem and Lagrange points |
-| Perturbation Theory | Time dependent perturbation theory, periodic and secular changes, Adiabatic invariants |
-| Introduction to Fluid Mechanics | Dynamics for continuous systems. Hydrostatics, conservations laws, Euler equation, incompressible flows, and sound waves. Viscous flows and the Navier-Stokes equation. Reynolds number, Vortices, and Turbulence |
-| Introduction to Chaos and Nonlinear Dynamics | Fixed points, Bifurcation, and Limit cycles. Lorenz Equations. The Logistic Map. Fractals and Strange Attractors
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SUBJECTS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lagrangian and Hamiltonian Mechanics with Constraints
+{{< tdclose >}}
+{{< tdopen >}}
+Euler-Lagrange Equations, Hamilton Equations, D'Alembert and Hamilton principles, Conservation Laws, holonomic and nonholonomic constraints, Lagrange multipliers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rigid Bodies & Rotations
+{{< tdclose >}}
+{{< tdopen >}}
+Non-inertial coordinate systems, rotation matrices, Euler's theorem, Moment of Inertia Tensor, Euler Equations, Lagrangian for a spinning top with torque
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Vibrations and Oscillations
+{{< tdclose >}}
+{{< tdopen >}}
+Simultaneous diagonalization of matrices for kinetic and potential energy. Using normal coordinates as generalized coordinates
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Canonical Transformations and Hamilton-Jacobi Equations
+{{< tdclose >}}
+{{< tdopen >}}
+Generating functions for canonical transformations, invariants, Hamilton-Jacobi equation, action-angle variables. Kepler problem with action-angle variables. Three-Body problem and Lagrange points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Perturbation Theory
+{{< tdclose >}}
+{{< tdopen >}}
+Time dependent perturbation theory, periodic and secular changes, Adiabatic invariants
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Introduction to Fluid Mechanics
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics for continuous systems. Hydrostatics, conservations laws, Euler equation, incompressible flows, and sound waves. Viscous flows and the Navier-Stokes equation. Reynolds number, Vortices, and Turbulence
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Introduction to Chaos and Nonlinear Dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+Fixed points, Bifurcation, and Limit cycles. Lorenz Equations. The Logistic Map. Fractals and Strange Attractors
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
